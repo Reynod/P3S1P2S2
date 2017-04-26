@@ -6,7 +6,7 @@ void ejemplo();
 //funcion que compara dos enteros y dice cual es mayor o si son iguales
 void comparar(int,int);
 
-//main
+//main comienza
 int main(){
 
 
